@@ -20,5 +20,4 @@ public class Main {
         List<Integer> task5 = FunctionalProgramming.zip(first, second).collect(Collectors.toList());
         System.out.println("Task 4\n" + task4 + "\nTask 5\n" + task5);
     }
-
 }
