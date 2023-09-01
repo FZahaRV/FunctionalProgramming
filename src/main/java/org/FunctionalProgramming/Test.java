@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         FunctionalProgramming functionalProgramming = new FunctionalProgramming();
         List<String> names = Arrays.asList("John", "Bill", "Alex", "Lee", "Sam", "Elizabeth");
